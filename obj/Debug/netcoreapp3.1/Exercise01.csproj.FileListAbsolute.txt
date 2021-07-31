@@ -1,0 +1,13 @@
+C:\Users\Spike\source\repos\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.csproj.AssemblyReference.cache
+C:\Users\Spike\source\repos\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.AssemblyInfoInputs.cache
+C:\Users\Spike\source\repos\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.AssemblyInfo.cs
+C:\Users\Spike\source\repos\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\Spike\source\repos\Exercise01\bin\Debug\netcoreapp3.1\Exercise01.exe
+C:\Users\Spike\source\repos\Exercise01\bin\Debug\netcoreapp3.1\Exercise01.deps.json
+C:\Users\Spike\source\repos\Exercise01\bin\Debug\netcoreapp3.1\Exercise01.runtimeconfig.json
+C:\Users\Spike\source\repos\Exercise01\bin\Debug\netcoreapp3.1\Exercise01.runtimeconfig.dev.json
+C:\Users\Spike\source\repos\Exercise01\bin\Debug\netcoreapp3.1\Exercise01.dll
+C:\Users\Spike\source\repos\Exercise01\bin\Debug\netcoreapp3.1\Exercise01.pdb
+C:\Users\Spike\source\repos\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.dll
+C:\Users\Spike\source\repos\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.pdb
+C:\Users\Spike\source\repos\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.genruntimeconfig.cache
